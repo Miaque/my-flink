@@ -1,4 +1,4 @@
-package com.demo.flink
+package com.demo.flink.source
 
 import com.demo.flink.source.TransactionSource
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment
